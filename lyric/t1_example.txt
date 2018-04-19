@@ -1,0 +1,89 @@
+﻿﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#">
+<head>
+<title>【 阿妹 】 【 歌手 】共有 2筆相關歌手</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="阿妹 歌詞, 歌詞 阿妹, 阿妹, 歌詞" />
+<meta name="description" content="阿妹 歌詞 阿妹妹 歌詞 " />
+<meta name="robots" content="all" />
+<meta name="distribution" content="GLOBAL" />
+<meta name="rating" content="general" />
+<LINK REL="SHORTCUT ICON" HREF="/favicon-t.ico">
+<link rel="alternate" hreflang="zh-Hant" href="http://mojim.com/阿妹.html?t1" />
+<link rel="alternate" hreflang="zh-Hans" href="http://mojim.com/阿妹.html?g1" />
+<link rel="alternate" hreflang="ja" href="http://mojim.com/阿妹.html?j1" />
+<link rel="alternate" hreflang="en" href="http://mojim.com/阿妹.html?u1" />
+<base target="_blank">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes"/>
+</head>
+<body>
+<script>
+var AdxUU = ",ad_end,";
+var sexA = "";var sexB = "0";var nA = "2";
+var LGx0="tw";var LGx1="t";var LGx2="sh";
+var seaA = "";var modeA = "1";var keyA = "阿妹";</script>
+<script type="text/javascript" src="/js_home_LG.js"></script>
+<script type="text/javascript" src="/js_home_isearch.js?20150430b"></script>
+<table border="0" cellpadding="0" cellspacing="0" style="max-width:800px;width:auto;border-collapse: collapse" ><tr><td>
+<tr><td>
+<table border="0" cellpadding="0" cellspacing="0" style="max-width:800px;width:auto;border-collapse: collapse" bordercolor="#111111" >
+<tr>
+<td width="193">
+<a target="_top" href="/twznew.htm" title="魔鏡歌詞網"><img alt="魔鏡歌詞網" title="魔鏡歌詞網" border="0" src="/logo-t.jpg" /></a>
+</td>
+<td class="td1" valign="top">
+<script>document.write(f1);</script>
+</td>
+<td class="mojimAA" style="width:0px"></td>
+</tr>
+</table>
+<script>document.write(sA);</script>
+<script>document.write(f2);</script>
+<table width="100%" align="center">
+<tr><td>
+<p align="center">【<b><font color="#D34805"> 阿妹 </font></b>】 【<font color=#D34805> 歌手 </font>】 共有 <font color="#D34805">2</font>筆相關歌手 </p>
+</td></tr>
+</table>
+<table width="100%" align="center">
+<tr><td class="mxsh_td01" valign="top">
+<table >
+<tr>
+<td class="mxsh_td02" rowspan="2" valign="top" >
+<table class="iB" align="right">
+<tr><td>
+<div>
+<dl class="mxsh_dl0" >
+<dd class="mxsh_dd0">
+<span class="mxsh_ss1">
+<font color="#990000" size="3">歌手 </font>( 頁面連結 )
+</span>
+</dd>
+<ul class="mxsh_ulz">
+<li><a  href="/twh100090.htm" title="阿妹 歌詞" ><font color="#D34805">阿妹</font></a></li>
+<li><a  href="/twh100065.htm" title="阿妹妹 歌詞" ><font color="#D34805">阿妹</font>妹</a></li>
+</ul>
+</dl>
+</div>
+</td></tr>
+<tr><td colspan="5" ></td></tr>
+<tr><td colspan="5" ><p align="left">　</p><script>document.write(ad_end);</script></td></tr>
+<tr><td colspan="5" ><script>document.write(bA);</script></td></tr>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+</tr>
+</table>
+<table border="0" cellpadding="0" cellspacing="0" style="max-width:800px;width:100%;"><tr><td>
+<script>document.write(gA);</script>
+</td></tr></table>
+
+</td>
+
+</tr>
+</table>
+</td></tr></table>
+<script type="text/javascript" src="/js_home_icss.js"></script>
+<script type="text/javas
